@@ -14,6 +14,10 @@ header{
 }
 .container-left{
     width: 25vw;
-    border-bottom: 1em solid white;
+    border-right: 1em solid white;
+    background-color: aqua;
+}
+.container-rigth{
+    width: 75vw;
     background-color: aqua;
 }
