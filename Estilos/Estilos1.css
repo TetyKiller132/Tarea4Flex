@@ -5,4 +5,5 @@
 header{
     height: 10vh;
     width: 100vw;
+    border-bottom: 1em solid white;
 }
