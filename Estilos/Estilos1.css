@@ -12,3 +12,8 @@ header{
     display: flex;
     height: 80vh;
 }
+.container-left{
+    width: 25vw;
+    border-bottom: 1em solid white;
+    background-color: aqua;
+}
