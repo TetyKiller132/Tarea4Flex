@@ -8,3 +8,7 @@ header{
     border-bottom: 1em solid white;
     background-color: aqua;
 }
+.container-flex{
+    display: flex;
+    height: 80vh;
+}
