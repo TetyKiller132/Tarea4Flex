@@ -3,21 +3,31 @@
     padding: 0;
 }
 header{
+    box-sizing: border-box;
     height: 10vh;
     width: 100vw;
-    border-bottom: 1em solid white;
+    border-bottom: .5em solid white;
     background-color: aqua;
 }
 .container-flex{
     display: flex;
     height: 80vh;
+
 }
 .container-left{
+    box-sizing: border-box;
     width: 25vw;
-    border-right: 1em solid white;
+    border-right: .5em solid white;
     background-color: aqua;
 }
 .container-rigth{
     width: 75vw;
+    background-color: aqua;
+}
+footer{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 10vh;
+    border-top: .5em solid white;
     background-color: aqua;
 }
